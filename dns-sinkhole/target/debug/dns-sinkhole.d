@@ -1,0 +1,1 @@
+/home/dejongl/Documents/server/dns-sinkhole/target/debug/dns-sinkhole: /home/dejongl/Documents/server/dns-sinkhole/src/blocklist.rs /home/dejongl/Documents/server/dns-sinkhole/src/dns.rs /home/dejongl/Documents/server/dns-sinkhole/src/main.rs

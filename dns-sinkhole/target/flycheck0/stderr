@@ -1,0 +1,4 @@
+    Checking dns-sinkhole v0.1.0 (/home/dejongl/Documents/server/dns-sinkhole)
+error: could not compile `dns-sinkhole` (bin "dns-sinkhole") due to 2 previous errors
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `dns-sinkhole` (bin "dns-sinkhole" test) due to 3 previous errors
